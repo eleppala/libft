@@ -6,7 +6,9 @@ My implementation of the 42 libft project - a custom C library containing re-imp
 
 ## About
 
-This library was created as part of the 42 curriculum. It includes:
+Libft is the first project of the 42 curriculum, where students build their own C library from scratch. ft_printf and get_next_line were completed as separate projects (2nd and 3rd) and later combined into this library.
+
+This library includes:
 - Standard libc functions (re-implemented)
 - Additional utility functions for string manipulation and memory management
 - **ft_printf** - A custom implementation of printf
